@@ -1,2 +1,3 @@
 # hello-world
-Practice Repositor
+Practice Repository
+A bit about myself
